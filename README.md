@@ -11,8 +11,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-Hi ! I'm Bowornthat Khunsanwanich you can call me ARM. I'm a student in faculty of informatics, Burapha Unversity
-
+Hi ! I'm Bowornthat Khunsanwanich you can call me ARM :muscle: . I'm a student in faculty of informatics, Burapha Unversity :mortar_board: <br>
+I work hard and am ready to learn new things. But sometimes I lack creativity. I'm the type of person who gets bored quickly. But if you already like it I'll be so addicted to it that I won't want to do anything else. 💤
 
 ---
 
